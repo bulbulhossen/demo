@@ -9,7 +9,7 @@
         "id": "2",
         "title": "Slide 2",
         "description": "Second of three slide",
-        "image_url": "https://i.ibb.co/g4QQNdt/banner.jpg"
+        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
     },
     {
         "id": "3",
