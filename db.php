@@ -16,5 +16,17 @@
         "title": "Slide 3",
         "description": "Third of three slide",
         "image_url": "https://i.ibb.co/g4QQNdt/banner.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://i.ibb.co/g4QQNdt/banner.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Slide 3",
+        "description": "Third of three slide",
+        "image_url": "https://i.ibb.co/g4QQNdt/banner.jpg"
     }
 ]
