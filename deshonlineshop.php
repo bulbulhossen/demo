@@ -21,7 +21,7 @@
         "id": "4",
         "title": "Slide 3",
         "description": "Results",
-        "image_url": "https://i.ibb.co/HPt7swS/jscresultsbanners.pngg"
+        "image_url": "https://i.ibb.co/HPt7swS/jscresultsbanners.png"
     },
     {
         "id": "5",
