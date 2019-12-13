@@ -26,7 +26,19 @@
     {
         "id": "5",
         "title": "Slide 3",
-        "description": "Third of three slide",
-        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
+        "description": "Cricket",
+        "image_url": "https://i.ibb.co/tM0Q6nJ/bplbanners.png"
+    },
+    {
+        "id": "6",
+        "title": "Slide 3",
+        "description": "Jobs Site",
+        "image_url": "https://i.ibb.co/RPKBr6N/jobsnewsbanners.png"
+    },
+    {
+        "id": "7",
+        "title": "Slide 3",
+        "description": "Bangla News",
+        "image_url": "https://i.ibb.co/YcpbJF9/newsbannerss.png"
     }
 ]
