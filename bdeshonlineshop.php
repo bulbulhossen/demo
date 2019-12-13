@@ -1,32 +1,44 @@
 [
     {
         "id": "1",
-        "title": "Slide 1",
-        "description": "First of three slide",
-        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
+        "title": "Banners",
+        "description": "Live Score",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
     },
     {
         "id": "2",
-        "title": "Slide 2",
-        "description": "Second of three slide",
-        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
+        "title": "Banners",
+        "description": "News Apps",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
     },
     {
         "id": "3",
-        "title": "Slide 3",
-        "description": "Third of three slide",
-        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
+        "title": "Banners",
+        "description": "Jobs",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
     },
     {
         "id": "4",
         "title": "Slide 3",
-        "description": "Third of three slide",
-        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
+        "description": "Results",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
     },
     {
         "id": "5",
+        "title": "Banners",
+        "description": "Cricket",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
+    },
+    {
+        "id": "6",
         "title": "Slide 3",
-        "description": "Third of three slide",
-        "image_url": "https://i.ibb.co/2qHDkRH/welcome.jpg"
+        "description": "Jobs Site",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
+    },
+    {
+        "id": "7",
+        "title": "Slide 3",
+        "description": "Bangla News",
+        "image_url": "https://i.ibb.co/LrybfJN/interbanner.png"
     }
 ]
